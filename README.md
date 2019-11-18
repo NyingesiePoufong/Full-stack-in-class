@@ -6,7 +6,6 @@
 Implement login page to distinguish fans. 
 
 
-***IN-PROGRESS***
 
 ![alt-text](https://github.com/NyingesiePoufong/Full-stack-in-class/blob/master/21%20savage%20full%20stack%20in%20class.png)
 
